@@ -32,7 +32,7 @@ url_video: ''
 
 [FANTAORACOLO](https://fantaoracolo-ux9tn8qkjepeujnqdb3xeg.streamlit.app/) is a web application designed to help fantasy football enthusiasts make informed decisions about which players to include in their fantasy teams. It achieves this by analyzing real data and using statistical techniques to recommend the best player choices for your fantasy football lineup, increasing your chances of winning your next match.
 
-Here are the key components of the project:
+Here are the key-components of the project:
 
 **Working Demo Web App:** The project involves creating a functional web application (demo at this [LINK](https://share.streamlit.io/riccardorubini98/fantaoracolo/main/app.py)) where users can access the FANTAORACOLO service. This web app will provide an easy and user-friendly interface for users to input their fantasy football team details and receive personalized player recommendations.
 
