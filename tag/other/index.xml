@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Other | Riccardo Rubini</title><link>https://riccardorubini98.github.io/tag/other/</link><atom:link href="https://riccardorubini98.github.io/tag/other/index.xml" rel="self" type="application/rss+xml"/><description>Other</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://riccardorubini98.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Other</title><link>https://riccardorubini98.github.io/tag/other/</link></image><item><title>L'Italia Solitaria</title><link>https://riccardorubini98.github.io/project/italiasolitaria/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://riccardorubini98.github.io/project/italiasolitaria/</guid><description>&lt;p>This infographic was crafted as a contribution to the &lt;em>&amp;ldquo;Data (in) context - Thinking with Data&amp;rdquo;&lt;/em> competition. This competition was organized by &lt;em>ISTAT&lt;/em>, &lt;em>Società Statistica Italiana&lt;/em> (SIS), and the &lt;em>University of Salerno&lt;/em>, with the sponsorship of &lt;em>Banca Campania Centro&lt;/em>.&lt;/p>
+&lt;p>The poster focuses on the issue of loneliness in Italy, examining this phenomenon across different age groups, genders, and geographical regions. To create this infographic, original data from ISTAT was carefully processed to make it suitable for data visualization. The visual elements were generated using R and the &lt;em>ggplot2&lt;/em> package, and later refined, enriched, and standardized in Illustrator.&lt;/p>
+&lt;p>This poster received the top prize in the &lt;em>&amp;ldquo;Best Poster for Communicative Effectiveness&amp;rdquo;&lt;/em> category.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="INFOGRAFICA" srcset="
+/project/italiasolitaria/image_hu54d91a2bab3bb3210b563591de8feb7d_1735761_7b8c77c4f37322366f6d38958e32a0c0.webp 400w,
+/project/italiasolitaria/image_hu54d91a2bab3bb3210b563591de8feb7d_1735761_bb11c1d0b38aad225b60682940aaf318.webp 760w,
+/project/italiasolitaria/image_hu54d91a2bab3bb3210b563591de8feb7d_1735761_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://riccardorubini98.github.io/project/italiasolitaria/image_hu54d91a2bab3bb3210b563591de8feb7d_1735761_7b8c77c4f37322366f6d38958e32a0c0.webp"
+width="537"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Fantaoracolo</title><link>https://riccardorubini98.github.io/project/fantaoracolo/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://riccardorubini98.github.io/project/fantaoracolo/</guid><description>&lt;p>&lt;a href="https://fantaoracolo-ux9tn8qkjepeujnqdb3xeg.streamlit.app/" target="_blank" rel="noopener">FANTAORACOLO&lt;/a> is a web application designed to help fantasy football enthusiasts make informed decisions about which players to include in their fantasy teams. It achieves this by analyzing real data and using statistical techniques to recommend the best player choices for your fantasy football lineup, increasing your chances of winning your next match.&lt;/p>
+&lt;p>Here are the key components of the project:&lt;/p>
+&lt;p>&lt;strong>Working Demo Web App:&lt;/strong> The project involves creating a functional web application (demo at this &lt;a href="https://share.streamlit.io/riccardorubini98/fantaoracolo/main/app.py" target="_blank" rel="noopener">LINK&lt;/a>) where users can access the FANTAORACOLO service. This web app will provide an easy and user-friendly interface for users to input their fantasy football team details and receive personalized player recommendations.&lt;/p>
+&lt;p>&lt;strong>Web Scraping:&lt;/strong> To provide accurate and up-to-date recommendations, FANTAORACOLO performs web scraping. This means it collects football and fantasy football data from various online sources. This data includes player statistics, team performance, and other relevant information necessary to make informed suggestions.&lt;/p>
+&lt;p>&lt;strong>Business Model Canvas:&lt;/strong> The project also includes the development of a business model canvas. This canvas outlines the startup&amp;rsquo;s strategy and plans for the web app. It covers aspects such as target audience, revenue streams, key partners, and channels for reaching users. This canvas serves as a roadmap for the project&amp;rsquo;s growth and sustainability.&lt;/p></description></item><item><title>Wikitrend</title><link>https://riccardorubini98.github.io/project/wikitrend/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://riccardorubini98.github.io/project/wikitrend/</guid><description>&lt;p>In this data management and data visualization project, our analysis involves three key components:&lt;/p>
+&lt;p>&lt;strong>Managing Data with MongoDB Document Database:&lt;/strong> To efficiently handle and store data, we utilized MongoDB, a robust document database. This allowed us to organize and manage our dataset effectively, ensuring it is easily accessible and scalable.&lt;/p>
+&lt;p>&lt;strong>Categorization of Wikipedia Pages&lt;/strong>: Our project involved the categorization of Wikipedia pages with a system that, among other things, uses a third parts algorithm. This system was designed to query a Knowledge Base (KB), specifically Wikidata, and leverage various online tools accessible via APIs. Through this process, we were able to categorize Wikipedia pages accurately and efficiently, enhancing data organization and accessibility.&lt;/p>
+&lt;p>&lt;strong>Construction of Interactive Infographics with Tableau:&lt;/strong> To make the categorized data more accessible and insightful, we constructed interactive infographics using Tableau. These infographics provided users with a dynamic and visually engaging way to explore and interact with the categorized data.&lt;/p>
+&lt;p>&lt;strong>Evaluation Using Questionnaires and User Tests:&lt;/strong> To ensure the effectiveness of our data visualization solution, we conducted rigorous evaluations. This included gathering feedback through questionnaires from users who interacted with our Tableau-based infographics. Additionally, we conducted user tests to assess the usability and user-friendliness of our visualization tools. This feedback helped us refine our design and ensure that the final product met the needs and expectations of our target audience.&lt;/p>
+&lt;p>The full report is published &lt;a href="https://riccardorubini98.github.io/wikitrend_site/" target="_blank" rel="noopener">HERE&lt;/a>&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="DATA VIZ 1" srcset="
+/project/wikitrend/data_viz_1_huf7624efadd5975e23832b29f24359357_164122_4a4b8792e3ea0faaf5c3827239809b02.webp 400w,
+/project/wikitrend/data_viz_1_huf7624efadd5975e23832b29f24359357_164122_2e8daea6b46f639e278175a362a505c3.webp 760w,
+/project/wikitrend/data_viz_1_huf7624efadd5975e23832b29f24359357_164122_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://riccardorubini98.github.io/project/wikitrend/data_viz_1_huf7624efadd5975e23832b29f24359357_164122_4a4b8792e3ea0faaf5c3827239809b02.webp"
+width="760"
+height="428"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="DATA VIZ 2" srcset="
+/project/wikitrend/data_viz_2_hub183868395e210235cde56d10f33f7b5_195528_0e732701be91647a7af3e0c802238c2d.webp 400w,
+/project/wikitrend/data_viz_2_hub183868395e210235cde56d10f33f7b5_195528_31d2156f21f2da7e0baf90f0243d5c48.webp 760w,
+/project/wikitrend/data_viz_2_hub183868395e210235cde56d10f33f7b5_195528_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://riccardorubini98.github.io/project/wikitrend/data_viz_2_hub183868395e210235cde56d10f33f7b5_195528_0e732701be91647a7af3e0c802238c2d.webp"
+width="760"
+height="428"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item></channel></rss>
