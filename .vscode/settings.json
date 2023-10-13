@@ -1,0 +1,10 @@
+{
+    "spellright.language": [
+        "it"
+    ],
+    "spellright.documentTypes": [
+        "latex",
+        "plaintext"
+    ],
+    "cSpell.language": "en,it,en-GB,en-US,it-IT,lorem"
+}
