@@ -67,7 +67,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/cv_eng.pdf
+    link: uploads/riccardo_rubini_cv(eng)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

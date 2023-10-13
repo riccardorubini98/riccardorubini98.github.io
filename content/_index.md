@@ -341,7 +341,7 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: riky.rubini@gmail.com
+      email: riccardo.rubini@gmail.com
       phone: +39 366 476 4781
       # appointment_url: 'https://calendly.com'
       # address:
